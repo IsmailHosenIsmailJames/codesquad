@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13607126087",
+    "project_id": "code-squad-bd",
+    "storage_bucket": "code-squad-bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13607126087:android:58fe16a75ec67f3dfcdd62",
+        "android_client_info": {
+          "package_name": "com.example.codesquad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13607126087-27eqik91mjn08bvl8f6d12vd4qev3653.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvv7ZD4cHe2-STkJJx-g0_Lsi6jWDr_pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13607126087-27eqik91mjn08bvl8f6d12vd4qev3653.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
